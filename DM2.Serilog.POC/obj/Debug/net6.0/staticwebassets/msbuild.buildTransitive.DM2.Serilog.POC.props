@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DM2.Serilog.POC.props" />
+</Project>
